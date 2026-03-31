@@ -1,0 +1,18 @@
+timestamp;experience_years;team_size;company_type;processing_mode;scaling_approach;bottleneck
+2026/04/01 12:04:25 AM GMT+3;3-5;4-7;ритейл;Near real-time;Horizontal;Disk I/O
+2026/04/01 12:04:25 AM GMT+3;3-5;4-7;ритейл;Near real-time;Horizontal;Concurrency/locks
+2026/04/01 12:04:53 AM GMT+3;0-1;1-3;телеком;Batch;Vertical;CPU
+2026/04/01 12:04:53 AM GMT+3;0-1;1-3;телеком;Batch;Vertical;Disk I/O
+2026/04/01 12:04:53 AM GMT+3;0-1;1-3;телеком;Batch;Vertical;Orchestration
+2026/04/01 12:05:25 AM GMT+3;5+;1-3;финтех;Real-time streaming;Horizontal;CPU
+2026/04/01 12:05:25 AM GMT+3;5+;1-3;финтех;Real-time streaming;Horizontal;Disk I/O
+2026/04/01 12:05:25 AM GMT+3;5+;1-3;финтех;Real-time streaming;Horizontal;Concurrency/locks
+2026/04/01 12:05:25 AM GMT+3;5+;1-3;финтех;Real-time streaming;Horizontal;Orchestration
+2026/04/01 12:05:49 AM GMT+3;1-3;1-3;ритейл;Real-time streaming;Комбинированный;RAM
+2026/04/01 12:05:49 AM GMT+3;1-3;1-3;ритейл;Real-time streaming;Комбинированный;Network
+2026/04/01 12:05:49 AM GMT+3;1-3;1-3;ритейл;Real-time streaming;Комбинированный;Slow SQL
+2026/04/01 12:06:15 AM GMT+3;0-1;8-15;телеком;Batch;Horizontal;RAM
+2026/04/01 12:06:15 AM GMT+3;0-1;8-15;телеком;Batch;Horizontal;Disk I/O
+2026/04/01 12:06:15 AM GMT+3;0-1;8-15;телеком;Batch;Horizontal;Network
+2026/04/01 12:06:15 AM GMT+3;0-1;8-15;телеком;Batch;Horizontal;Concurrency/locks
+2026/04/01 12:06:15 AM GMT+3;0-1;8-15;телеком;Batch;Horizontal;Orchestration
