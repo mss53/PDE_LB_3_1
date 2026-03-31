@@ -40,6 +40,7 @@
 - влияние на стоимость,
 - открытый вопрос об опыте/уроке.
 
+Ссылка на опрос: https://docs.google.com/forms/d/e/1FAIpQLSfd6IR5soaoiGwMzlCb1e1r7myAjlwTkmeyq_YNXWNr1XDdNQ/viewform?usp=header
 ### 2.2 Сбор данных и экспорт
 
 Ответы были собраны через Google Forms и выгружены в CSV:
