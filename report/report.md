@@ -55,10 +55,6 @@
 - `data/bottlenecks_long_dl.csv` — для вопроса «Где чаще возникают узкие места?»
 - `data/practices_long_dl.csv` — для вопроса «Какие практики вы применяете?»
 
-Подготовка выполнялась в ноутбуке:
-
-- `analysis/multiselect_7_5_7_6.ipynb`
-
 ### 2.4 Разработка дашборда (Yandex DataLens)
 
 В DataLens были подключены:
